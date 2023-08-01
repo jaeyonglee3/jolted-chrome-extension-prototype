@@ -1,0 +1,13 @@
+{
+  "name": "JoltEd Chrome Extension Prototype",
+  "description": "Protoype extension built with React and OpenAI API",
+  "permissions": [
+    "activeTab"
+  ],
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "bolt.png"
+  }
+}
